@@ -2,5 +2,5 @@
 
 Pic16F877A
 
-<img src="media/circuit.PNG" width="512"/>
+<img src="media/circuit.PNG"/>
  
